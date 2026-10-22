@@ -1,0 +1,29 @@
+python
+sql
+machine learning
+deep learning
+data analysis
+statistics
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+power bi
+tableau
+excel
+nlp
+data visualization
+matplotlib
+seaborn
+git
+java
+c++
+html
+css
+javascript
+mongodb
+mysql
+flask
+aws
+docker
